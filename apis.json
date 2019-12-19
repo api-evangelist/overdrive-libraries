@@ -1,0 +1,70 @@
+{
+    "name": "OverDrive Libraries",
+    "description": "Borrow eBooks, audiobooks and videos from thousands of public libraries worldwide.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1351-overdrive-libraries.jpg",
+    "tags": [
+        "ebook",
+        "ereader",
+        "have api",
+        "libraries"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/overdrive-libraries\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OverDrive Libraries",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1351-overdrive-libraries.jpg",
+            "humanURL": "https:\/\/overdrive.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/overdrive-libraries-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/patron.api.overdrive.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/overdriveblogs.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/overdrive"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/overdrive"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.overdrive.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Overdrive"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/OverDriveLibs"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/OverDriveInc"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/overdrive.com\/"
+        }
+    ]
+}
